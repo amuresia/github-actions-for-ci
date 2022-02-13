@@ -1,1 +1,2 @@
-name: Test
+name: Team awesome's approval workflow
+on: pull_request_review
